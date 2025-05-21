@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development with an emphasis on combat and movement mechanics/physics
 - 🌱 I’m currently creating a few python projects to solidify my knowledge of python fundamentals.
 - 💞️ I’m looking to collaborate on just about anything. I like to keep an open mind and try to expand my knowledge in multiple ways.
-- 📫 You can reach me by my email: tonyirizarry69@gmail.com.
+- 📫 You can reach me by email: tonyirizarry69@gmail.com.
 - ⚡ Fun fact: I'm 8.3666**2 tall
 
 <!---
