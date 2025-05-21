@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnthonyI-626
+- 👋 Hi, I’m Anthony Irizarry 
 - 👀 I’m interested in game development with an emphasis on combat and movement mechanics/physics
 - 🌱 I’m currently creating a few python projects to solidify my knowledge of python fundamentals.
 - 💞️ I’m looking to collaborate on just about anything. I like to keep an open mind and try to expand my knowledge in multiple ways.
