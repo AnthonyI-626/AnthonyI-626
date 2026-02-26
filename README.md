@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anthony Irizarry 
-- 👀 I’m interested in game development with an emphasis on combat and movement mechanics/physics
-- 🌱 I’m currently creating a few python projects to solidify my knowledge of python fundamentals.
+- 👋 Hi, I’m Anthony Irizarry
+-💻 I’m focused on web development, especially building clean, reliable REST APIs and backend systems.
+-🌱 I’m currently working on Python and Flask projects to strengthen my backend fundamentals and deployment skills.
 - 💞️ I’m looking to collaborate on just about anything. I like to keep an open mind and try to expand my knowledge in multiple ways.
 - 📫 You can reach me by email: tonyirizarry69@gmail.com.
 
